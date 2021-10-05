@@ -34,49 +34,49 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ### Open Visual Studio and Create "Makefile Project"
 
-![](images\2020-11-04-16-28-03-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-28-03-image.png)
 
 Choose and create folder for your project
 
-![](images\2020-11-04-16-28-45-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-28-45-image.png)
 
 
 
 Create build.bat and clean.bat files for nmake
 
-![](images\2020-11-04-16-29-11-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-29-11-image.png)
 
 
 
 ## Set the search paths
 
-![](images\2020-11-04-16-30-37-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-30-37-image.png)
 
 
 
-![](images\2020-11-04-16-31-19-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-31-19-image.png)
 
 
 
-![](images\2020-11-04-16-32-00-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-32-00-image.png)
 
 
 
 Nmake section edit Include Search Path
 
-![](images\2020-11-04-16-39-31-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-39-31-image.png)
 
 Add followings from mingw-w64 folder.
 
-![](images\2020-11-04-16-39-46-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-39-46-image.png)
 
 Create build.bat file and locate on project
 
-![](images\2020-11-04-16-41-09-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-41-09-image.png)
 
 
 
-![](images\2020-11-04-16-54-16-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-54-16-image.png)
 
 Insert following command in the build.bat
 
@@ -86,13 +86,13 @@ Insert following command in the build.bat
 
 Create sample hello world application
 
-![](images\2020-11-04-16-55-09-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-55-09-image.png)
 
 Build application to create exe file
 
-![](images\2020-11-04-16-55-25-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-55-25-image.png)
 
-![](images\2020-11-04-16-55-40-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-55-40-image.png)
 
 
 
@@ -100,7 +100,7 @@ Run from visual studio
 
 
 
-![](images\2020-11-04-16-56-01-image.png)
+![](https://raw.githubusercontent.com/ucoruh/gcc-c-on-visual-studio/main/images/2020-11-04-16-56-01-image.png)
 
 Thats all...
 
